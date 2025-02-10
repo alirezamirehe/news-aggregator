@@ -36,7 +36,7 @@ Before running the project, ensure you have the following installed:
 2. **Build the Docker container**:
     docker-compose up --build
 3. **Access the application**:
-    Open your browser and go to `http://localhost:3001`
+    Open your browser and go to `http://localhost:3000`
 
 ---
 
